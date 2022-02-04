@@ -1,3 +1,0 @@
-# angular-ivy-4mx3mt
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-4mx3mt)
